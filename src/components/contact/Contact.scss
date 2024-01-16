@@ -1,0 +1,87 @@
+@import "../../app.scss";
+
+.contact{
+    height: 100%;
+    max-width: 1366px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+
+    @include mobile{
+        width: 100%;
+        padding: 10px;
+        flex-direction: column;
+    }
+
+    .textContainer{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+
+        @include mobile{
+            gap: 20px;
+            text-align: center;
+            align-items: center;
+            margin-top: 70px;
+        }
+        h1{
+            font-size: 100px;
+            line-height: 88px;
+
+            @include mobile{
+                font-size: 80px;
+            }
+        }
+
+        span{
+            font-weight: 300;
+        }
+    }
+
+    .formContainer{
+        flex: 1;
+        position: relative;
+
+        @include mobile{
+            width: 100px;
+        }
+
+        .phoneSvg{
+            stroke: chartreuse;
+            position: absolute;
+            margin: auto;
+        }
+
+        form{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        
+            input,textarea{
+                padding: 20px;
+                background-color: transparent;
+                border: 1px solid darkblue;
+                color: white;
+                border-radius: 5px;
+            }
+
+            button{
+                padding: 20px;
+                border-radius: 5px;
+                border: 1px solid darkblue;;
+                background-color: chartreuse;
+                cursor: pointer;
+                font-weight: 500px;
+
+                @include mobile{
+                    padding: 10px;
+                }
+            }
+        }
+    }
+
+
+}
