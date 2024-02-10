@@ -1,4 +1,5 @@
-# React + Vite
+# MY PORTOFOLIO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+My portfolio showcases my creative journey and professional expertise in software developers. 
+each project reflects my dedication to captivating aesthetics, responsive functionality, and user-friendly experiences.
+My portfolio demonstrates flexibility and innovative problem-solving tailored to client needs.
