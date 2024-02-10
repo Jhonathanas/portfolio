@@ -4,9 +4,9 @@ import { motion,useScroll,useSpring, useTransform } from 'framer-motion';
 const item=[
     {
         id:1,
-        title:"React Commerce",
-        img:"https://images.pexels.com/photos/18931202/pexels-photo-18931202/free-photo-of-a-white-building-with-trees-in-front-of-it.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
-        desc:'sadfnaskdlfansdfj sdajfhnka nasdjfhruffifruui sdckmmcmkcv papapas sdkfjfi jaskf'
+        title:"Jo Movie",
+        img:'/public/port1.png',
+        desc:'Pencarian informasiC judul film dan informasi yang lainnya yang diambil mengunakan api database dari TDM lalu ditampilkan kedepan dengan framwork Reack'
     },
     {
         id:2,
