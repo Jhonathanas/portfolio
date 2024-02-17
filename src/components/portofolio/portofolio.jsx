@@ -7,7 +7,7 @@ const item=[
         title:"Jo Movie",
         img:'/public/port1.png',
         demo: `https://jomovie.netlify.app/`,
-        desc:'Pencarian informasiC judul film dan informasi yang lainnya yang diambil mengunakan api database dari TDM lalu ditampilkan kedepan dengan framwork Reack'
+        desc:'Pencarian judul film dan informasi yang lainnya yang diambil mengunakan api database dari TDM lalu ditampilkan kedepan dengan React'
     },
     {
         id:2,
