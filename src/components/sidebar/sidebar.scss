@@ -18,9 +18,10 @@
         background-color: white;
         z-index: 99;
 
-        // @include mobile{
-        //     width: 150px;
-        // }
+        @include mobile{
+            width: 150px;
+            z-index: 1000;
+        }
 
         .links{
             position: absolute;

@@ -41,11 +41,6 @@ const Service = () => {
         </motion.div>
         <motion.div className='listContainer'>
             <div className='box'>
-                <h2>Graphic Design</h2>
-                <p>Create stunning visuals and captivating designs for your brand. We turn ideas into eye-catching graphics.</p>
-                <button>GO</button>
-            </div>
-            <div className='box'>
                 <h2>UI/UX Design</h2>
                 <p>Craft intuitive and user-friendly interfaces. Elevate user experience through thoughtful design and interaction.</p>
                 <button>GO</button>
