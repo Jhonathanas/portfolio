@@ -14,21 +14,21 @@ const item=[
         title:"Next.js Commerce",
         img:"https://images.pexels.com/photos/18931202/pexels-photo-18931202/free-photo-of-a-white-building-with-trees-in-front-of-it.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
         demo: '',
-        desc:'sadfnaskdlfansdfj sdajfhnka nasdjfhruffifruui sdckmmcmkcv papapas sdkfjfi jaskf'
+        desc:'Comming Soon'
     },
     {
         id:3,
         title:"Laravel Commerce",
         img:"https://images.pexels.com/photos/18931202/pexels-photo-18931202/free-photo-of-a-white-building-with-trees-in-front-of-it.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
         demo: '',
-        desc:'sadfnaskdlfansdfj sdajfhnka nasdjfhruffifruui sdckmmcmkcv papapas sdkfjfi jaskf'
+        desc:'Comming Soon'
     },
     {
         id:4,
         title:"Music Commerce",
         img:"https://images.pexels.com/photos/18931202/pexels-photo-18931202/free-photo-of-a-white-building-with-trees-in-front-of-it.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
         demo: '',
-        desc:'sadfnaskdlfansdfj sdajfhnka nasdjfhruffifruui sdckmmcmkcv papapas sdkfjfi jaskf'
+        desc:'Comming Soon'
     }
 ];
 
@@ -53,7 +53,7 @@ const Single = ({ item }) => {
                     <h2>{item.title}</h2>
                     <p>{item.desc}</p>
                     <button onClick={() => redirectToDemo(item.demo)}>See Demo</button>
-                    </motion.div>
+                </motion.div>
             </div>
         </div>
         </section>

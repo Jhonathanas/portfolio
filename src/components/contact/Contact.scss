@@ -20,24 +20,32 @@
         display: flex;
         flex-direction: column;
         gap: 40px;
+        color: chartreuse;
 
         @include mobile{
-            gap: 20px;
+            gap: 5px;
             text-align: center;
             align-items: center;
-            margin-top: 70px;
+            margin-top: 100px;
         }
         h1{
             font-size: 100px;
             line-height: 88px;
 
             @include mobile{
-                font-size: 80px;
+                font-size: 60px;
             }
         }
 
         span{
             font-weight: 300;
+        }
+
+        h2, span{
+            color: chartreuse;
+            @include mobile{
+                font-size: 10px;
+            }
         }
     }
 
@@ -46,26 +54,38 @@
         position: relative;
 
         @include mobile{
-            width: 100px;
+            width: 90%;
+            padding-bottom: 110px;
         }
 
         .phoneSvg{
             stroke: chartreuse;
             position: absolute;
             margin: auto;
+
+        @include mobile{
+            display: none;
+            }
         }
 
         form{
         display: flex;
         flex-direction: column;
         gap: 20px;
-        
+
+        @include mobile{
+            gap: 5px;
+        }
             input,textarea{
                 padding: 20px;
                 background-color: transparent;
-                border: 1px solid darkblue;
+                border: 1px solid rgb(255, 255, 255);
                 color: white;
                 border-radius: 5px;
+
+                @include mobile{
+                    padding: 7px
+                }
             }
 
             button{

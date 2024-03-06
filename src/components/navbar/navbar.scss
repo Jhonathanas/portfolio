@@ -28,6 +28,10 @@
         display: flex;
         gap: 20px;
 
+        @include mobile{
+            padding-right: 15px;
+        }
+        
         img{
             width: 18px;
             height: 18px;
