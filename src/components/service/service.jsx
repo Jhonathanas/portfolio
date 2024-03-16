@@ -41,7 +41,7 @@ const Service = () => {
         </motion.div>
         <motion.div className='listContainer'>
             <div className='box'>
-                <h2>UI/UX Design</h2>
+                <h2>FrontEnd Development</h2>
                 <p>Craft intuitive and user-friendly interfaces. Elevate user experience through thoughtful design and interaction.</p>
                 <button>GO</button>
             </div>
@@ -51,7 +51,7 @@ const Service = () => {
                 <button>GO</button>
             </div>
             <div className='box'>
-                <h2>Full Stack Solutions</h2>
+                <h2>Full Stack</h2>
                 <p>Combine the power of design and technology. From graphics to backend, we offer end-to-end solutions for your digital needs.</p>
                 <button>GO</button>
             </div>

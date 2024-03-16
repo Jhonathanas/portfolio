@@ -5,28 +5,28 @@ const item=[
     {
         id:1,
         title:"Jo Movie",
-        img:'/public/port1.png',
-        demo: `https://jomovie.netlify.app/`,
+        img:'/port1.png',
+        demo: `https://jonamovie.netlify.app`,
         desc:'Pencarian judul film dan informasi yang lainnya yang diambil mengunakan api database dari TDM lalu ditampilkan kedepan dengan React'
     },
     {
         id:2,
         title:"Next.js Commerce",
-        img:"https://images.pexels.com/photos/18931202/pexels-photo-18931202/free-photo-of-a-white-building-with-trees-in-front-of-it.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
+        img:"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         demo: '',
         desc:'Comming Soon'
     },
     {
         id:3,
         title:"Laravel Commerce",
-        img:"https://images.pexels.com/photos/18931202/pexels-photo-18931202/free-photo-of-a-white-building-with-trees-in-front-of-it.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
+        img:"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         demo: '',
         desc:'Comming Soon'
     },
     {
         id:4,
         title:"Music Commerce",
-        img:"https://images.pexels.com/photos/18931202/pexels-photo-18931202/free-photo-of-a-white-building-with-trees-in-front-of-it.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load",
+        img:"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         demo: '',
         desc:'Comming Soon'
     }

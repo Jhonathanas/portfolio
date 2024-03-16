@@ -21,7 +21,7 @@ const yText = useTransform(scrollYProgress, [0,1] , ["0%","500%"])
     style={{ background: type === "service" 
     ? "linear-gradient(180deg, #112535 ,#0c0c1d )"
     : "linear-gradient(180deg, #0c0c1d ,#112535)" }}>
-        <motion.h1 style={{ y:yText }}>{type ==='service' ? "What We Do" : "What We Did"}</motion.h1>
+        <motion.h1 style={{ y:yText }}>{type ==='service' ? "What I Do" : "What I Did"}</motion.h1>
         <motion.div className='mountains'></motion.div>
         <motion.div className='planets'
         style={{ y:yBg ,
