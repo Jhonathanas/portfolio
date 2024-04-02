@@ -12,16 +12,16 @@ const item=[
     {
         id:2,
         title:"TodoApp",
-        img:"/public/porto2.png",
+        img:"/porto2.png",
         demo: 'https://jotodooo.netlify.app',
         desc:'Todo App dengan react js memvalidasi tipe data yang masuk dan shareable link mengunakan react-route-dom '
     },
     {
         id:3,
-        title:"Laravel Commerce",
-        img:"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        demo: '',
-        desc:'Comming Soon'
+        title:"KependudukanApp",
+        img:"/Porto3.png",
+        demo: 'https://github.com/Jhonathanas/AppKependudukan.git',
+        desc:'Memenage Kependudukan dengan Laravel Brezze React'
     },
     {
         id:4,
