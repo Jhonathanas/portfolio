@@ -4,17 +4,17 @@ import { motion,useScroll,useSpring, useTransform } from 'framer-motion';
 const item=[
     {
         id:1,
-        title:"Jo Movie",
+        title:"Movie App",
         img:'/port1.png',
         demo: `https://jonamovie.netlify.app`,
         desc:'Pencarian judul film dan informasi yang lainnya yang diambil mengunakan api database dari TDM lalu ditampilkan kedepan dengan React'
     },
     {
         id:2,
-        title:"Next.js Commerce",
+        title:"TodoApp",
         img:"/public/porto2.png",
         demo: 'https://jotodooo.netlify.app',
-        desc:'Comming Soon'
+        desc:'Todo App dengan react js memvalidasi tipe data yang masuk dan shareable link mengunakan react-route-dom '
     },
     {
         id:3,
