@@ -12,8 +12,8 @@ const item=[
     {
         id:2,
         title:"Next.js Commerce",
-        img:"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        demo: '',
+        img:"/public/porto2.png",
+        demo: 'https://jotodooo.netlify.app',
         desc:'Comming Soon'
     },
     {
