@@ -25,10 +25,10 @@ const item=[
     },
     {
         id:4,
-        title:"Music Commerce",
-        img:"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        demo: '',
-        desc:'Comming Soon'
+        title:"Manage Employee",
+        img:"/porto4.png",
+        demo: 'https://github.com/Jhonathanas/Employees',
+        desc:'Manage Employee Office Aplication with Laravel and Filament'
     }
 ];
 
