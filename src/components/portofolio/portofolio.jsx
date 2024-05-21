@@ -11,10 +11,10 @@ const item=[
     },
     {
         id:2,
-        title:"TodoApp",
+        title:"Nike Landing Page",
         img:"/porto2.png",
-        demo: 'https://jotodooo.netlify.app',
-        desc:'Todo App dengan react js memvalidasi tipe data yang masuk dan shareable link mengunakan react-route-dom '
+        demo: 'https://jonike.netlify.app',
+        desc:'Landing page about nike shoes with react framwork and tailwind'
     },
     {
         id:3,
