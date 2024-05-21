@@ -7,28 +7,28 @@ const item=[
         title:"Movie App",
         img:'/port1.png',
         demo: `https://jonamovie.netlify.app`,
-        desc:'Pencarian judul film dan informasi yang lainnya yang diambil mengunakan api database dari TDM lalu ditampilkan kedepan dengan React'
+        desc:'Web service about finding movie and the detail the every moviel'
     },
     {
         id:2,
         title:"Nike Landing Page",
-        img:"/porto2.png",
+        img:"/porto5.png",
         demo: 'https://jonike.netlify.app',
         desc:'Landing page about nike shoes with react framwork and tailwind'
     },
     {
         id:3,
-        title:"KependudukanApp",
+        title:"Kependudukan App",
         img:"/Porto3.png",
         demo: 'https://github.com/Jhonathanas/AppKependudukan.git',
-        desc:'Memenage Kependudukan dengan Laravel Brezze React'
+        desc:'Managing Population with Laravel Brezze React'
     },
     {
         id:4,
-        title:"Manage Employee",
+        title:"Employee",
         img:"/porto4.png",
         demo: 'https://github.com/Jhonathanas/Employees',
-        desc:'Manage Employee Office Aplication with Laravel and Filament'
+        desc:'Manage Employee Office Applications with Laravel and Filament'
     }
 ];
 
