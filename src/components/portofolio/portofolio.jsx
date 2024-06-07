@@ -18,10 +18,10 @@ const item=[
     },
     {
         id:3,
-        title:"Kependudukan App",
-        img:"/Porto3.png",
-        demo: 'https://github.com/Jhonathanas/AppKependudukan.git',
-        desc:'Managing Population with Laravel Brezze React'
+        title:"Thread App",
+        img:"/Porto6.png",
+        demo: 'https://myx-chat.netlify.app',
+        desc:'Clone app thread and x with react with state management Redux'
     },
     {
         id:4,
