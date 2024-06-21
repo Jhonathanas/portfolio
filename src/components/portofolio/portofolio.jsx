@@ -25,6 +25,13 @@ const item=[
     },
     {
         id:4,
+        title:"TravelMate",
+        img:"/capstone.png",
+        demo: 'https://travelmate-frontend-pi.vercel.app',
+        desc:'Our final project in dicoding SIB CYCLE 6 using React and Express ,me as role fullstack'
+    },
+    {
+        id:5,
         title:"Employee",
         img:"/porto4.png",
         demo: 'https://github.com/Jhonathanas/Employees',
