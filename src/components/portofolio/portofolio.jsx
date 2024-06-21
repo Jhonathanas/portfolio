@@ -19,7 +19,7 @@ const item=[
     {
         id:3,
         title:"Thread App",
-        img:"/Porto6.png",
+        img:"/porto6.png",
         demo: 'https://myx-chat.netlify.app',
         desc:'Clone app thread and x with react with state management Redux'
     },
@@ -78,7 +78,7 @@ const Portofolio = () => {
         damping:30,
     });
     return (
-    <div className='portofolio' ref={ref}>
+    <div id='porto' className='portofolio' ref={ref}>
         <div className='progres'>
             <h1>Feature</h1>
             <motion.div style={{ scaleX:scaleX }} className='progresBar'>

@@ -50,10 +50,14 @@
                     padding: 15px;
                     border: 1px ,white;
                     border-radius: 10px;
-                    color: #cccccc;
-                    background: transparent;
+                    color: #112535;
+                    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                    background: #f39c12;
                     margin-right: 10px;
                     cursor: pointer;
+                }
+                buttons:hover {
+                    transform: scale(2); 
                 }
             }
         }

@@ -25,7 +25,7 @@ const Contact = () => {
     <motion.div ref={ref} className='contact' variants={variants} initial='initial' whileInView="animate"> 
         <motion.div className='textContainer' variants={variants}>
             <motion.h1 variants={variants}>Lets Work Together</motion.h1>
-            <motion.div className='item' variants={variants}>
+            <motion.div className='item' variants={variants} id='contact'>
                 <h2>Email</h2>
                 <span>jonathanadisaputro99@gmail.com</span>
             </motion.div>
