@@ -2,19 +2,13 @@ import { useRef } from 'react';
 import './portofolio.scss'
 import { motion,useScroll,useSpring, useTransform } from 'framer-motion';
 const item=[
+    
     {
-        id:1,
-        title:"Movie App",
-        img:'/port1.png',
-        demo: `https://jonamovie.netlify.app`,
-        desc:'Web service about finding movie and the detail the every moviel'
-    },
-    {
-        id:2,
-        title:"Nike Landing Page",
-        img:"/porto5.png",
-        demo: 'https://jonike.netlify.app',
-        desc:'Landing page about nike shoes with react framwork and tailwind'
+        id:4,
+        title:"Ijogram",
+        img:'/porto9.png',
+        demo: `https://ijogram.vercel.app`,
+        desc:'Clone app facebook with next js with postgresql and prisma'
     },
     {
         id:3,
@@ -24,18 +18,31 @@ const item=[
         desc:'Clone app thread and x with react with state management Redux'
     },
     {
-        id:4,
+        id:1,
         title:"TravelMate",
         img:"/capstone.png",
         demo: 'https://travelmate-frontend-pi.vercel.app',
         desc:'Our final project in dicoding SIB CYCLE 6 using React and Express ,me as role fullstack'
     },
     {
-        id:5,
+        id:2,
         title:"Employee",
         img:"/porto4.png",
         demo: 'https://github.com/Jhonathanas/Employees',
         desc:'Manage Employee Office Applications with Laravel and Filament'
+    },{
+        id:6,
+        title:"Movie App",
+        img:'/porto1.png',
+        demo: `https://jonamovie.netlify.app`,
+        desc:'Web service about finding movie and the detail the every moviel'
+    },
+    {
+        id:5,
+        title:"Nike Landing Page",
+        img:"/porto5.png",
+        demo: 'https://jonike.netlify.app',
+        desc:'Landing page about nike shoes with react framwork and tailwind'
     }
 ];
 
