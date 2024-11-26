@@ -35,15 +35,8 @@ const item=[
         title:"Movie App",
         img:'/porto1.png',
         demo: `https://jonamovie.netlify.app`,
-        desc:'Web service about finding movie and the detail the every moviel'
+        desc:'Web service about movie and the detail the every moviel clone for netflix'
     },
-    {
-        id:5,
-        title:"Nike Landing Page",
-        img:"/porto5.png",
-        demo: 'https://jonike.netlify.app',
-        desc:'Landing page about nike shoes with react framwork and tailwind'
-    }
 ];
 
 const Single = ({ item }) => {
